@@ -57,7 +57,7 @@ nav{
 }
 
 .slider{
-    background-image: url(/img/wood.jpg);
+    background-image: url(img/wood.jpg);
     clip-path:  polygon(50% 0%, 100% 0, 100% 43%, 100% 100%, 68% 100%, 32% 100%, 0 86%, 0% 43%, 0 0);
     overflow: hidden;
 }
